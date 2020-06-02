@@ -2,7 +2,7 @@
 A list of projects on vanilla javascript, OOP and ES6 
 
 
-## Hosted versions of these projects are found in the addresses below 
+## Hosted versions of these projects are found in the links below 
 
 ## Loan Calculator 
 - https://kayz-loan-calculator.netlify.app/
