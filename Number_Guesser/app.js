@@ -93,7 +93,6 @@ function getRandomNum(min, max){
     console.log(Math.floor(Math.random()*(max-min+1)+min));
 }
 
-
 // Set message 
 function setMessage(msg, color) {
     message.style.color = color;
