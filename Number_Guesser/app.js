@@ -90,7 +90,7 @@ function gameOver(won, msg){
 
 // Get Winning Num 
 function getRandomNum(min, max){
-    console.log(Math.floor(Math.random()*(max-min+1)+min));
+    return Math.floor(Math.random()*(max-min+1)+min);
 }
 
 // Set message 
