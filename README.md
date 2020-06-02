@@ -12,3 +12,4 @@ A list of projects on vanilla javascript, OOP and ES6
 
 ## Number Guessing Game 
 - https://kayz-number-game.netlify.app/
+
